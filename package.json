@@ -1,5 +1,5 @@
 {
-  "name": "torrent-web",
+  "name": "torrents781",
   "version": "2.0.1",
   "main": "server.js",
   "description": "Stream and download torrents directly over http with a web UI",
@@ -15,11 +15,9 @@
     "torrent proxy",
     "direct download"
   ],
-  "author": {
-    "name": "Andrea Stella",
-    "email": "adr.stella@gmail.com"
+ 
   },
-  "repository": "mccxiv/torrent-web",
+  "repository": "xpl0yt/torrents781",
   "preferGlobal": true,
   "license": "ISC",
   "dependencies": {
